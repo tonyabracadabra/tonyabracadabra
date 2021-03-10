@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyabracadabra)](https://github.com/anuraghazra/github-readme-stats)
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyabracadabra?count_private=true)](https://github.com/anuraghazra/github-readme-stats)

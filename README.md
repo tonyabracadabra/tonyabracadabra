@@ -1,4 +1,7 @@
-### Hi there 👋
+### Time is not my friend 
+
+- 📫 Zhihu: Xenophon Tony
+- ⚡ LinkedIn: https://www.linkedin.com/in/tonytongxupeng/
 
 <!--
 **tonyabracadabra/tonyabracadabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

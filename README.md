@@ -1,7 +1,5 @@
 ### What I cannot create, I do not understand
 
-- 📫 Zhihu: Xenophon Tony
-
 <!--
 **tonyabracadabra/tonyabracadabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

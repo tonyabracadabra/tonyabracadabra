@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyabracadabra&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyabracadabra&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyabracadabra&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Tony's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonyabracadabra)](https://github.com/anuraghazra/github-readme-stats)

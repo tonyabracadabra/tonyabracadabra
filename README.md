@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonyabracadabra)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Tony's GitHub stats](https://github-readme-stats-beige-seven.vercel.app/api?username=tonyabracadabra&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-beige-seven.vercel.app/api/top-langs/?username=tonyabracadabra&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-beige-seven.vercel.app/api/top-langs/?username=tonyabracadabra&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

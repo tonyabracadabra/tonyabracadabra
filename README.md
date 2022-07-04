@@ -1,7 +1,7 @@
 ### I make Machine Learn
 
 
-I am currently CEO and hacker @ STRING, a platform that fosters decision making with the Blessing of Dimensionality through the causal lens. Before founding STRING, I was an engineer @ Uber / JD, and before that, I attended the coolest computer science school on earth where my burning curiosity got ignited toward the universe, elegant yet preposterous, we reside.
+I am currently the CEO and hacker @ STRING, a platform that fosters decision making with the Blessing of Dimensionality through the causal lens. Before founding STRING, I was an engineer @ Uber / JD, and before that, I attended the coolest computer science school on earth where my burning curiosity got ignited toward the universe, elegant yet preposterous, we reside.
 
 I am currently living in Hangzhou @ China, I am always open for a coffee chat if you are around! I always enjoyed talking with people with different background.
 

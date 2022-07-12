@@ -9,7 +9,6 @@ I am currently living in Hangzhou @ China, I am open for a coffee ☕ chat if yo
 Few more things:
 - 🌱 I’m currently learning quantum computation and cryptography, along with many other crazily fun things (like analytic philosophy).
 - 📚 Apart from being an engineer, I was also trained as a biologist, chemist and an amateur linguist.
-- 📫  How to reach me: tongxupeng.cpu@gmail.com
 
 <br></br>
 
@@ -28,8 +27,9 @@ Few more things:
 </a>
  ╹
 <a href='mailto:tongxupeng.cpu@gmail.com'>
-    <img width="28" height="28" src="https://user-images.githubusercontent.com/6690727/178397865-1fe0fb92-6854-4248-8aa2-e9e629372792.svg"/>
+    <img width="28" height="28" src="https://user-images.githubusercontent.com/6690727/178398219-c71ac8cf-957e-4b4a-b3e2-158fb5a33e8b.svg"/>
 </a>
+
 </div>
 
 --- 

@@ -11,8 +11,53 @@ Few more things:
 - 📚 Apart from being an engineer, I was also trained as a biologist, chemist and an amateur linguist.
 - 📫  How to reach me: tongxupeng.cpu@gmail.com
 
+<style>
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+</style>
+
+</div>
+<div align='center'>
+<a href='https://www.linkedin.com/in/tonytongxupeng/'>
+    <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/linkedin.png"/>
+</a>
+ ╹
+<a href='https://www.zhihu.com/people/tonyabracadabra'>
+    <img width="26" height="26" src="https://user-images.githubusercontent.com/6690727/178393219-b94cec59-975c-41c9-bf4e-ef5b72e17c96.svg"/>
+</a>
+ ╹
+ <a href='https://user-images.githubusercontent.com/6690727/178397264-3111fe90-423c-4e71-abbc-bfbafea84bcc.png'>
+    <img width="28" height="28" src="https://user-images.githubusercontent.com/6690727/178393820-fe22707d-6550-45aa-b0b8-38537b611132.svg"/>
+</a>
+</div>
+
 --- 
 
 [![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyabracadabra&theme=algolia&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/tonyabracadabra/tonyabracadabra/output/ocean.svg)
+

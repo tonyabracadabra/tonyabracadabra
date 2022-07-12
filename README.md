@@ -26,6 +26,10 @@ Few more things:
  <a href='https://user-images.githubusercontent.com/6690727/178397264-3111fe90-423c-4e71-abbc-bfbafea84bcc.png'>
     <img width="28" height="28" src="https://user-images.githubusercontent.com/6690727/178393820-fe22707d-6550-45aa-b0b8-38537b611132.svg"/>
 </a>
+ ╹
+<a href='mailto:tongxupeng.cpu@gmail.com'>
+    <img width="28" height="28" src="https://user-images.githubusercontent.com/6690727/178397865-1fe0fb92-6854-4248-8aa2-e9e629372792.svg"/>
+</a>
 </div>
 
 --- 

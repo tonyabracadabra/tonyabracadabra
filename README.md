@@ -7,7 +7,7 @@ I am currently the founder and CEO @ STRING, a platform that fosters decision ma
 I am currently living in Hangzhou @ China, I am open for a coffee ☕ chat if you are around! I always enjoy conversations with people with different background 😄
 
 Few more things:
-- 🌱 I’m currently learning quantum computation and cryptography, along with many other crazily fun things (like analytic philosophy).
+- 🌱 I’m currently learning quantum computation, web3 and cryptography, along with many other crazily fun things (like analytic philosophy).
 - 📚 Apart from being an engineer, I was also trained as a biologist, chemist and an amateur linguist.
 
 <br></br>

@@ -11,6 +11,7 @@ Few more things:
 - 📚 Apart from being an engineer, I was also trained as a biologist, chemist and an amateur linguist.
 - 📫  How to reach me: tongxupeng.cpu@gmail.com
 
+--- 
 
 [![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyabracadabra&theme=algolia&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

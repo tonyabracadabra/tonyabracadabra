@@ -36,7 +36,8 @@ Few more things:
 
 <br></br>
 
-[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyabracadabra&theme=algolia&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/tonyabracadabra/tonyabracadabra/output/ocean.svg)
+<div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=tonyabracadabra&theme=algolia&count_private=true&show_icons=true">
+    <img src="https://raw.githubusercontent.com/tonyabracadabra/tonyabracadabra/output/ocean.svg">
+</div>
 

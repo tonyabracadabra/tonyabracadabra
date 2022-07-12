@@ -27,7 +27,7 @@ Few more things:
 </a>
  ╹
 <a href='mailto:tongxupeng.cpu@gmail.com'>
-    <img width="28" height="28" src="https://user-images.githubusercontent.com/6690727/178398219-c71ac8cf-957e-4b4a-b3e2-158fb5a33e8b.svg"/>
+    <img width="26" height="26" src="https://user-images.githubusercontent.com/6690727/178398219-c71ac8cf-957e-4b4a-b3e2-158fb5a33e8b.svg"/>
 </a>
 
 </div>

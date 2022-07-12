@@ -26,7 +26,7 @@ Few more things:
     <img width="28" height="28" src="https://user-images.githubusercontent.com/6690727/178393820-fe22707d-6550-45aa-b0b8-38537b611132.svg"/>
 </a>
  ╹
-<a href='mailto:tongxupeng.cpu@gmail.com'>
+<a href='mailto:siaawypcl@mozmail.com'>
     <img width="26" height="26" src="https://user-images.githubusercontent.com/6690727/178398219-c71ac8cf-957e-4b4a-b3e2-158fb5a33e8b.svg"/>
 </a>
 

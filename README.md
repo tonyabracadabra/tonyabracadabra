@@ -30,8 +30,8 @@
 - Learning cool stuff like quantum computation and cryptography.
 
 ## What's more?
-- We are hiring machine learning engineers with strong engineering background.
-- I am open for a coffee chat (I am Hangzhou based right now) or zoom catch up, grab my time [here](https://calendly.com/tongxupeng-cpu/30).
+- We are hiring machine learning/full stack engineers, join us building the vibrant future of human centered decision making.
+- I am open for a coffee chat on random stuff (I am Hangzhou based right now) or zoom catch up, grab my time [here](https://calendly.com/tongxupeng-cpu/30).
 
 --- 
 

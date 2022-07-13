@@ -27,7 +27,7 @@
 - Previously engineering @ [Uber](https://www.uber.com/us/en/marketplace/)
 - As a CMU tartan, [My heart is in the work](https://www.cmu.edu/about/today-we-work/).
 - Trained as a biologist, chemist and an amateur linguist.
-- Learning cool stuff like quantum computation and cryptography.
+- Learning cool stuff like quantum computating and cryptography.
 
 ## What's more?
 - We are hiring machine learning/full stack engineers, join us building the vibrant future of human centered decision making.

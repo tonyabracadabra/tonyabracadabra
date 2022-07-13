@@ -1,18 +1,6 @@
-### What I cannot create, I do not understand 🌠
-
-I make Machine Learn.
-
-I am currently the founder and CEO @ STRING, a platform that fosters decision making with the Blessing of Dimensionality through the causal lens. Before founding STRING, I was an engineer @ Uber / JD, after graduated from the coolest computer science school on earth where I was blessed to meet some of the smartest people I've met in the world.
-
-I am currently living in Hangzhou @ China, I am open for a coffee ☕ chat if you are around! I always enjoy conversations with people with different background 😄
-
-Few more things:
-- 🌱 I’m currently learning quantum computation, web3 and cryptography, along with many other crazily fun things (like analytic philosophy).
-- 📚 Apart from being an engineer, I was also trained as a biologist, chemist and an amateur linguist.
+# What I cannot create, I do not understand
 
 <br></br>
-
-</div>
 <div align='center'>
 <a href='https://www.linkedin.com/in/tonytongxupeng/'>
     <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/linkedin.png"/>
@@ -31,6 +19,19 @@ Few more things:
 </a>
 
 </div>
+
+<br></br>
+
+## About me
+- Hacker & CEO@[STRING](stringx.cn), a platform that fosters decision making with the Blessing of Dimensionality through the causal lens.
+- Previously engineering @ [Uber](https://www.uber.com/us/en/marketplace/)
+- As a CMU tartan, [My heart is in the work](https://www.cmu.edu/about/today-we-work/).
+- Trained as a biologist, chemist and an amateur linguist.
+- Learning cool stuff like quantum computation and cryptography.
+
+## What's more?
+- We are hiring machine learning engineers with strong engineering background.
+- I am open for a coffee chat (I am Hangzhou based right now) or zoom catch up, grab my time [here](https://calendly.com/tongxupeng-cpu/30).
 
 --- 
 

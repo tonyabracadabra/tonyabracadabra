@@ -24,13 +24,13 @@
 
 ## About me
 - Hacker & CEO@[STRING](stringx.cn), a platform that fosters decision making with the Blessing of Dimensionality through the causal lens.
-- Previously engineering @ [Uber](https://www.uber.com/us/en/marketplace/)
+- Previously ML @ [Uber](https://www.uber.com/us/en/marketplace/)
 - As a CMU tartan, [My heart is in the work](https://www.cmu.edu/about/today-we-work/).
-- Trained as a biologist, chemist and an amateur linguist.
+- Trained as an engineer, biologist, chemist and amateur linguist.
 - Learning cool stuff like quantum computating and cryptography.
 
 ## What's more?
-- We are hiring machine learning/full stack engineers, join us building the vibrant future of human centered decision making.
+- We are hiring machine learning/full stack engineers, we welcome Rustaceans, Gophers and statisticians to join us building the vibrant future of human centered decision making.
 - I am open for a coffee chat on random stuff (I am Hangzhou based right now) or zoom catch up, grab my time [here](https://calendly.com/tongxupeng-cpu/30).
 
 --- 

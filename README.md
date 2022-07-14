@@ -37,8 +37,8 @@
 
 <br></br>
 
-*“Does the walker choose the path, or the path the walker?”* <br></br>
-― Garth Nix, Sabriel
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *“Does the walker choose the path, or the path the walker?”* <br></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ― Garth Nix, Sabriel
 
 <div align="center"> 
     <img src="https://raw.githubusercontent.com/tonyabracadabra/tonyabracadabra/output/ocean.svg">

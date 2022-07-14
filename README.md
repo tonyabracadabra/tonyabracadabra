@@ -33,9 +33,12 @@
 - We are hiring machine learning / full stack engineers, we welcome Rustaceans, Gophers and Pythonistatisticians (sorry for making up that word!) to join us building the vibrant future of human centered decision making.
 - I am open for a coffee chat on random stuff (I am Hangzhou based right now) or zoom catch up, grab my time [here](https://calendly.com/tongxupeng-cpu/30).
 
-# 
+#
 
 <br></br>
+
+*“Does the walker choose the path, or the path the walker?”* <br></br>
+― Garth Nix, Sabriel
 
 <div align="center"> 
     <img src="https://raw.githubusercontent.com/tonyabracadabra/tonyabracadabra/output/ocean.svg">

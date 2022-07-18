@@ -1,7 +1,7 @@
 # What I cannot create, I do not understand
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *“Does the walker choose the path, or the path the walker?”* <br></br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ― Garth Nix, Sabriel
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ― Garth Nix, __*Sabriel*__
 
 <div align="center"> 
     <img src="https://raw.githubusercontent.com/tonyabracadabra/tonyabracadabra/output/ocean.svg">

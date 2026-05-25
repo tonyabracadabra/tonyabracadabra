@@ -9,17 +9,17 @@
 
 <br></br>
 
-## About [me](tonytong.me)
+## About me
 - Hacker & CEO @TIC, building software for fun.
 - Previously ML @ [Uber](https://www.uber.com/us/en/marketplace/)
 - As a CMU tartan, [My heart is in the work](https://www.cmu.edu/about/today-we-work/).
 - Trained as an engineer, biologist, chemist and amateur linguist.
-- Learning cool stuff like quantum computing and cryptography.
+- I hack everything: networks, protocols, binaries, growth funnels, and sometimes my own sleep schedule.
 
 ## What's more?
-- We are hiring machine learning / full stack engineers, we welcome Rustaceans, Gophers and Pythonistatisticians (sorry for making up that word!) to join us building the vibrant future of human centered decision making.
-- Open for a coffee chat on random stuff (I am Hangzhou based right now) or zoom catch up, grab my time [here](https://calendly.com/tongxupeng-cpu/30).
-
+- Hiring hackers who are comfortable with packet captures, prompt injection, and production traffic.
+- Building AI-native games and interactive worlds where the model is both narrator and system.
+- Always looking for people who treat networks, ads, and human attention as systems to be explored.
 <br></br>
 
 <div align='center'>

@@ -10,7 +10,7 @@
 <br></br>
 
 ## About me
-- Hacker & CEO @TIC, building software for fun.
+- Hacker & CEO @TIC, building software for fun, backed by top‑tier VCs.
 - Previously ML @ [Uber](https://www.uber.com/us/en/marketplace/)
 - As a CMU tartan, [My heart is in the work](https://www.cmu.edu/about/today-we-work/).
 - Trained as an engineer, biologist, chemist and amateur linguist.
